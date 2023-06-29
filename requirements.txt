@@ -1,2 +1,5 @@
 streamlit
 pandas
+cv2
+numpy
+tensorflow
